@@ -3,7 +3,6 @@
 I'm Natallya, Full Stack Developer in training
 
 - 🔭 I’m currently intershipping @BeCode
-- 🌱 I’m learning python
 
 
 
