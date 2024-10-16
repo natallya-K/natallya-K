@@ -3,6 +3,10 @@
 I'm Natallya, Full Stack Developer
 
 - 🔭 I’m currently working on web scraping and data analysis with C# Selenium @DiVintage
+- 🌱 I’m currently learning Microsoft Azure
+
+## Connect with me at [Linkedin](https://www.linkedin.com/in/natallya-kaval-kova-56a8ab172/)
+
 
 
 
