@@ -1,8 +1,8 @@
 ### Hi there, 
 
-I'm Natallya, Full Stack Developer in training
+I'm Natallya, Full Stack Developer
 
-- 🔭 I’m currently intershipping @BeCode
+- 🔭 I’m currently working on web scraping and data analysis with C# Selenium @DiVintage
 
 
 
