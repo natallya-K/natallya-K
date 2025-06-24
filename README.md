@@ -1,9 +1,10 @@
 ### Hi there, 
 
-I'm Natallya, Full Stack Developer
-
-- 🔭 I’m currently working on web scraping and data analysis with C# Selenium @DiVintage
-- 🌱 I’m currently learning Microsoft Azure
+I’m currently doing AI / Data Science Bootcamp of 7 months which includes:
+- Participation in practical data science projects for companies
+- Development and optimization of predictive models
+- Use of Python, SQL, and other machine learning tools for analysis and modeling
+- Microsoft Azure
 
 #### Connect with me at [Linkedin](https://www.linkedin.com/in/natallya-kaval-kova-56a8ab172/)
 
