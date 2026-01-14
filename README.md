@@ -1,10 +1,12 @@
 ### Hi there, 
 
-I’m currently doing AI / Data Science Bootcamp of 7 months which includes:
-- Participation in practical data science projects for companies
-- Development and optimization of predictive models
-- Use of Python, SQL, and other machine learning tools for analysis and modeling
-- Microsoft Azure
+Following a 7-month bootcamp in AI and Data Science and an internship building a RAG Proof of Concept, I am now focusing on how to develop practical LLM-powered applications.
+
+I am currently strengthening my skills in LangChain, with a focus on:
+
+- Chain orchestration and logic
+- Exploring agentic workflows
+- Managing memory in LLM applications
 
 #### Connect with me at [Linkedin](https://www.linkedin.com/in/natallya-kaval-kova-56a8ab172/)
 
